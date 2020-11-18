@@ -2,7 +2,7 @@
 
 ![screenshot](/screenshots/mandelbrot.png?raw=true)
 
-A multi-threaded (4 threads) fractal renderer that supports six different (pre-defined) types of fractals.
+A multi-threaded fractal renderer that supports six different (pre-defined) types of fractals.
 
 This is the second project in the graphics branch of the old (pre-2020) curriculum at 42 Silicon Valley. It's built using the `minilibx` C library, which provides very basic graphics functions, like opening a window and drawing a pixel in that window. View the assignment [here](https://github.com/jakemgilfix/ft_fractol-Fractal-Fun/blob/master/fract_ol.en.pdf).
 
