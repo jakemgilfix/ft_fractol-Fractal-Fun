@@ -14,10 +14,11 @@ As with all 42 Silicon Valley projects, all code must comply with [42's style gu
 * Parameter of the Julia family of fractals is controllable via the mouse (without clicking).
 * Mousewheel zooms in and out.
 * Multicolored to show depth of fractals.
-*
 
 ## Bonus Features (implemented for extra credit)
-* 
+* Also includes Burning Ship fractal, as well as two different modified Julia fractals.
+* Arrow keys to translate fractal up/down/left/right.
+* `+`/`-` keys adjust maximum iterations.
 
 ## Compiling and Running
 Currently only tested on MacOS 10.13+.
@@ -26,3 +27,5 @@ Run `make` in the root directory to compile the project, leaving an executable w
 
 After compiling, run `./fractol` without arguments to display a list of the available fractal types and the keybindings you can use while running the program:
 ![screenshot](/screenshots/menu.png?raw=true)
+
+To view a fractal from this list, run `./fractol <fractal_type>`, using the *name* and not the *number* (e.g., `./fractol Mandelbrot`).
