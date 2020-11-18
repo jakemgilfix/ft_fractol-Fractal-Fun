@@ -9,7 +9,12 @@ This is the second project in the graphics branch of the old (pre-2020) curricul
 As with all 42 Silicon Valley projects, all code must comply with [42's style guide or 'Norme'](https://github.com/jakemgilfix/ft_fractol-Fractal-Fun/blob/master/norme.en.pdf). I would be remiss not to mention that this style guide is extremely dated and forces arbitrary constraints (e.g., 25 lines per function, 5 functions per file) that, however well-intended, often result in sub-optimal code.
 
 ## Features (required for project)
-* 
+* Only C Standard Library functions allowed are: `open()`, `read()`, `write()`, `close()`, `malloc()`, `free()`, `perror()`, `strerror()`, `exit()`, and all of the functions within the `math` library.
+* Includes Mandelbrot, Julia, and Tricorn fractals.
+* Parameter of the Julia family of fractals is controllable via the mouse (without clicking).
+* Mousewheel zooms in and out.
+* Multicolored to show depth of fractals.
+*
 
 ## Bonus Features (implemented for extra credit)
 * 
