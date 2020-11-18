@@ -27,4 +27,5 @@ Run `make` in the root directory to compile the project, leaving an executable w
 
 After compiling, run `./fractol` without arguments to display a list of the available fractal types and the keybindings you can use while running the program:
 ![screenshot](/screenshots/menu.png?raw=true)
+
 To view a fractal from this list, run `./fractol <fractal_type>`, using the *name* and not the *number* (e.g., `./fractol Mandelbrot`).
