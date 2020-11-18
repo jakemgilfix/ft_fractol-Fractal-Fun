@@ -1,6 +1,6 @@
 # Fract'ol : A 42 Silicon Valley Fractal Renderer
 
-![screenshot](/screenshots/42.png?raw=true)
+![screenshot](/screenshots/mandelbrot.png?raw=true)
 
 A multi-threaded (4 threads) fractal renderer that supports six different (pre-defined) types of fractals.
 
