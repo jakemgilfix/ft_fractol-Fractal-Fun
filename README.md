@@ -19,6 +19,7 @@ As with all 42 Silicon Valley projects, all code must comply with [42's style gu
 * Also includes Burning Ship fractal, as well as two different modified Julia fractals.
 * Arrow keys to translate fractal up/down/left/right.
 * `+`/`-` keys adjust maximum iterations.
+* Zoom follows the mouse.
 
 ## Compiling and Running
 Currently only tested on MacOS 10.13+.
